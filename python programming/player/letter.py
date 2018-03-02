@@ -1,6 +1,6 @@
 for letter in 'Python':
-   print 'Current Letter :', letter
+   print ('Current Letter :', letter)
 fruits = ['banana', 'apple',  'mango']
 for fruit in fruits:    
-   print 'Current fruit :', fruit
-print "Good bye!"
+   print ('Current fruit :', fruit)
+print ("Good bye!")
